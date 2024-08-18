@@ -1,2 +1,2 @@
 Project: Todo App 24
-Version: -----------
+Version: todo-app-1.0-snapshot
